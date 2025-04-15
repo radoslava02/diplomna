@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 28 19:35:10 2025
-
-@author: Stoqn
-"""
-
 #from Rationals import Rational
 from sympy import symbols, Rational, simplify
 
