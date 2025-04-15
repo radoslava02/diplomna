@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 16 12:00:05 2024
-
-@author: Stoqn
-"""
-
 def bellman_ford(graph, source):
     distance = [float("Inf")] * (len(graph) + 1)
     distance[source] = 0
